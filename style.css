@@ -29,3 +29,23 @@ footer {
   padding: 10px;
   font-size: 14px;
 }
+
+.avatar {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 130px;
+  max-height: 160px;
+  width: auto;
+  height: auto;
+  border-radius: 12px;
+}
+
+.project-img {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 200px;
+  max-height: 180px;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+}
