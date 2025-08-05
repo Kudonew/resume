@@ -30,22 +30,22 @@ footer {
   font-size: 14px;
 }
 
-.avatar {
-  display: block;
-  margin: 0 auto 20px;
-  max-width: 130px;
-  max-height: 160px;
-  width: auto;
-  height: auto;
-  border-radius: 12px;
-}
-
 .project-img {
-  display: block;
-  margin: 0 auto 20px;
-  max-width: 200px;
-  max-height: 180px;
-  width: auto;
-  height: auto;
-  border-radius: 8px;
+      display: block;
+      margin: 0 auto 20px;
+      max-width: 280px;
+      max-height: 280px;
+      width: auto;
+      height: auto;
+      border-radius: 8px;
+}
+/* 头像样式 */
+.avatar {
+      display: block;
+      margin: 0 auto 20px;
+      max-width: 200px;
+      max-height: 220px;
+      width: auto;
+      height: auto;
+      border-radius: 12px;
 }
